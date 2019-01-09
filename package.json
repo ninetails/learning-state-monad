@@ -1,0 +1,17 @@
+{
+  "name": "learning-state-monad",
+  "version": "1.0.0",
+  "description": "https://egghead.io/lessons/javascript-construct-a-stateful-monad",
+  "repository": "ninetails/learning-state-monad.git",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninetails/learning-state-monad/issues"
+  },
+  "homepage": "https://github.com/ninetails/learning-state-monad#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crocks": "^0.11.1"
+  }
+}
